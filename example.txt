@@ -1,0 +1,8 @@
+Ganesh...
+
+first asalu manam save chesina elanti file aina avi  #1 working directory eh
+                                                  #2 staging area #3 Local Repostory  #4 remote Repostory
+
+    first Local repo lo save aythe ne remote lo ki pamapagalam
+    staging area dwaara 1 or multiple files ni pampachu unlike Localand remote  they only allow all repo at once
+     
